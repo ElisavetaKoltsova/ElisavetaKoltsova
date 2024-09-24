@@ -15,6 +15,13 @@
   </div>
 </div>
 
+## My languages and Tools
+<div id="languages">
+  <img src="https://repository-images.githubusercontent.com/38163241/54847c80-77ca-11eb-9e03-3d3ffaf5c083"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+</div>
 <!--
 **ElisavetaKoltsova/ElisavetaKoltsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
