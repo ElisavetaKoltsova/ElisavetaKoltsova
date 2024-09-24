@@ -5,7 +5,7 @@
 </div>
 <div id="badges">
   <a href="your-vk-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="TG Badge"/>
   </a>
   <a href="your-leetcode-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="LeetCode Badge"/>
