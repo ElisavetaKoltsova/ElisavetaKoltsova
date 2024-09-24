@@ -15,6 +15,7 @@
   </div>
 </div>
 
+
 ## My languages and Tools
 <div id="languages">
   <img width="50" heigth="50" src="https://repository-images.githubusercontent.com/38163241/54847c80-77ca-11eb-9e03-3d3ffaf5c083"/>
@@ -22,6 +23,10 @@
   <img width="50" heigth="50" src="https://github.com/user-attachments/assets/4d7733cb-d4be-4274-9fac-8d5f962a6465"/>
   <img width="50" heigth="50" src="https://raw.githubusercontent.com/rangle/redux-beacon/af4a88229194291f6b6c9f5311b86488f6b16f1d/logo/redux-beacon-logomark.png"/>
 </div>
+
+
+## My stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElisavetaKoltsova)](https://git.io/streak-stats)
 <!--
 **ElisavetaKoltsova/ElisavetaKoltsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
