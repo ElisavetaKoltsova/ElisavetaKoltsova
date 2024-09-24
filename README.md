@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/3o6nV8lML1hfHBdlZu"/>
+  <img src="[https://giphy.com/embed/3o6nV8lML1hfHBdlZu](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjeHdpM2RpeGUyMjQ0ZGN3Z2FsMW8zenFvMjByZjZ2NG9sazB2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nV8lML1hfHBdlZu/giphy.webp)"/>
 </div>
 <!--
 **ElisavetaKoltsova/ElisavetaKoltsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
