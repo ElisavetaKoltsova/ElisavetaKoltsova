@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjeHdpM2RpeGUyMjQ0ZGN3Z2FsMW8zenFvMjByZjZ2NG9sazB2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nV8lML1hfHBdlZu/giphy.gif"/>
-  <img src="https://leetcode-status.vercel.app/card/api/ElisavetaKoltsova?theme=light&border=false&hide_title=true&custom_title=" />
+<!--   <img src="https://leetcode-status.vercel.app/card/api/ElisavetaKoltsova?theme=light&border=false&hide_title=true&custom_title=" /> -->
   <div id="badges">
     <a href="@Nyaaaak">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
@@ -30,6 +30,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElisavetaKoltsova)](https://git.io/streak-stats)
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ElisavetaKoltsova)](https://github.com/ElisavetaKoltsova/leetcode-stats)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/LeetCode?theme=dark&font=Content&ext=heatmap)](https://leetcode.com/ElisavetaKoltsova/)
+![LeetCode Stats](https://leetcode-status.vercel.app/api/card/ElisavetaKoltsova?theme=light&hide_title=true&custom_title=LeetCode)
 <!--
 **ElisavetaKoltsova/ElisavetaKoltsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
