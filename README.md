@@ -29,6 +29,7 @@
 
 ## My stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElisavetaKoltsova)](https://git.io/streak-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ElisavetaKoltsova)](https://github.com/ElisavetaKoltsova/leetcode-stats)
 <!--
 **ElisavetaKoltsova/ElisavetaKoltsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
