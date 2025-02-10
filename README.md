@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZjeHdpM2RpeGUyMjQ0ZGN3Z2FsMW8zenFvMjByZjZ2NG9sazB2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nV8lML1hfHBdlZu/giphy.gif"/>
-<!--   <img src="https://leetcode-status.vercel.app/card/api/ElisavetaKoltsova?theme=light&border=false&hide_title=true&custom_title=" /> -->
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/ElisavetaKoltsova?theme=dark&font=Content&ext=heatmap)
   <div id="badges">
     <a href="@Nyaaaak">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
